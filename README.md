@@ -9,11 +9,12 @@
 
 ---
 
-🚀 I'm a second-year Biomedical Engineering undergraduate at the **University of Moratuwa**, passionate about fusing healthcare with innovation. My core interests lie in **myoelectric prosthetics**, **EMG-based projects**, **human-computer interaction (HCI)**, and **3D-printed medical assistive devices**. As the **COO and Director of Rysera Innovations (Pvt) Ltd**, a multidisciplinary engineering startup founded by UoM undergraduates, I lead our **3D printing division**, pioneering low-cost, customized prosthetics and orthoses for underserved communities in Sri Lanka. Collaborating closely with **occupational therapists**, we're delivering impactful assistive solutions across the country. I also specialize in advanced prosthetic design using **Geomagic Freeform Plus** with a haptic device, enabling precise, patient-specific modeling. With a strong foundation in biomedical innovation and a drive to make healthcare more accessible, I aim to bridge the gap between cutting-edge engineering and real-world clinical needs.
+I'm a second-year Biomedical Engineering undergraduate at the University of Moratuwa, driven by a passion to blend healthcare with innovation. My key interests include myoelectric prosthetics, EMG-based projects, human-computer interaction (HCI), and 3D-printed medical assistive devices. I specialize in designing custom prosthetics and orthoses using Geomagic Freeform Plus with a haptic device, allowing for precise, patient-specific modeling.
 
+As the COO and Director of Rysera Innovations (Pvt) Ltd, a multidisciplinary engineering startup founded by UoM undergraduates, I lead our Biomedical Division . Under my guidance, we’ve launched a new initiative to provide affordable, personalized prosthetics, orthoses and medical assistive devices to underserved communities in Sri Lanka. By collaborating closely with occupational therapists, we aim to deliver meaningful, low-cost assistive solutions and empower people with physical challenges across the country. My mission is to bridge the gap between advanced biomedical technology and the real-world needs of patients.
 ---
 
-### 🧠 Areas of Interest
+###  Areas of Interest
 
 - 🦿 Myoelectric Prosthetics   
 - 💪 EMG Signal Processing & Analog Muscle Interfaces  
