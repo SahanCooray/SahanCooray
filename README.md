@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="CoverImage.jpg" alt="Banner" width="100%" />
+  <img src="Banner.jpg" alt="Banner" width="100%" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
