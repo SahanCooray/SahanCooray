@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[your-banner-image-url-her](https://t4.ftcdn.net/jpg/04/81/43/99/360_F_481439997_TpFcVD7oLpaLPV2u2We9OvYAHgej5hkb.jpg)" alt="Banner" width="100%" />
+  <img src="CoverImage.jpg" alt="Banner" width="100%" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
